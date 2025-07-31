@@ -23,6 +23,7 @@ namespace MyLibrary
             return a * b;
         }
 
+
         public static int Divide(int a, int b)
         {
             if (b == 0) return 0;
