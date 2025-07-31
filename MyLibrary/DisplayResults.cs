@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 namespace MyLibrary
 {
     internal class DisplayResults
+
     {
         public static void DisplayReport(string name, int id, int incorrect, int correct, int totalScore, int maxScore)
         {
