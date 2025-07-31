@@ -11,6 +11,7 @@ namespace QuizSystem
     {
         static void Main(string[] args)
         {
+
              Random Qulxin = new Random();
             string stdName;
             int stdId, choice, a, b, c = 0, answer, numQuestions = 10;
